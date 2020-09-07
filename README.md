@@ -5,8 +5,8 @@ A Webpack 4 scaffold with ES6, babel and SASS for development and production usa
 ## Installation
 
 ```
-$ git clone git@gitlab.com:jankern/music-mechanic-webapp.git
-$ cd music-mechanic-webapp
+$ git clone git@gitlab.com:jankern/condulence-webapp.git
+$ cd condulence-webapp
 $ npm install
 ```
 
